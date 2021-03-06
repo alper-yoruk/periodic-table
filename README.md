@@ -1,4 +1,4 @@
-# periodic table
+# periodic table (in progress)
 
 ## Build Setup
 
